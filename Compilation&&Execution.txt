@@ -1,0 +1,11 @@
+Le dossier Jungle est un dossier de projet créé par l'IDE NetBeans. On peut donc le compiler et l'exécuter avec l'IDE
+NetBeans. Sous Windows (testé sous windows 7), on peut exécuter le fichier Jungle.jar dans le dossier "dist" 
+en double cliquant dessus.
+
+On peut aussi compiler et l'exécuter en mode console en suivant les étapes décrites ci-dessous:
+-On se place dans le répertoire ".../Jungle/src>" puis on tape la commande: javac jungle/*.java
+-Puis on exécute; toujours en étant dans le même répertoire en tapant la commande: java jungle.Jungle
+
+
+On peut également directement l'exécuter en se plaçant dans le répertoire "dist" et en tapant la commande:
+java -jar Jungle.jar
