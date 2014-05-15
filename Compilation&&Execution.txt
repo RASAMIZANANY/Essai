@@ -9,3 +9,9 @@ On peut aussi compiler et l'exécuter en mode console en suivant les étapes décri
 
 On peut également directement l'exécuter en se plaçant dans le répertoire "dist" et en tapant la commande:
 java -jar Jungle.jar
+
+
+
+
+
+jzfoijzeifjzeifjiosfjiosqfjoidsjfoidsjifjsfjqsdfjoiqfjiqfjiqsfjqfjoiqsd
